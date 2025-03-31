@@ -54,13 +54,10 @@ Build Trade is an online platform designed to streamline the process of purchasi
 6. **Access the Website**:
    Open your browser and go to [http://127.0.0.1:5000](http://127.0.0.1:5000) to access the "Build Trade" website.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
-Developed by [Your Name].
+Developed by Pukhraj Dewangan.
 
 ---
 Feel free to tweak this file or add more details as your project grows!
