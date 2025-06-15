@@ -61,6 +61,3 @@ Developed by Pukhraj Dewangan.
 
 ---
 Feel free to tweak this file or add more details as your project grows!
-```
-
-Let me know if there's anything you'd like to add or modify. 😊
